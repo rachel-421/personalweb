@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'League Spartan', sans-serif;
+  line-height: 2;
+}
+
+.name {
+  font-size: 375%;
+  margin-top: 0;
+  font-family: 'Pacifico', cursive;
+  color: #F6E7D8;
+  text-shadow: 3px 3px #E83A14;
+}
+
+.intro {
+  font-family: 'VT323', monospace;
+  text-shadow: 2px 2px #E45826;
+}
+
+.sintro {
+  width: 30%;
+  margin: auto;
+  padding-bottom: 30px;
+  text-align: center;
+  text-justify: inter-word;
+}
+
+h2 {
+  font-family: 'Anton', sans-serif;
+  color: white;
+  text-shadow: 2px 2px #E45826;
+  font-size: 170%
+}
+
+h3 {
+  font-family: 'VT323', monospace;
+  color: #524A4E;
+  text-shadow: 2px 1px white;
+  font-size: 150%
+}
+
+p {
+  color: #A3423C;
+  font-size: 120%
+}
+
+hr {
+  border: dotted #AD8B73 6px;
+  border-bottom: none;
+  width: 7%;
+  margin: 70px auto;
+}
+
+.top-container {
+  background-color: #D68060;
+  position: relative;
+  padding-top: 150px;
+  display: block;
+  width: 100%;
+}
+
+.middle-container {
+  background-color: #E2BCB7;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 100%;
+}
+
+.bottom-container {
+  background-color: #D68060;
+  position: relative;
+  padding: 50px 0 20px;
+  width: 100%;
+}
+
+.shootingstar {
+  position: absolute;
+  left: 75%;
+  top: 10%;
+}
+
+.stars {
+  position: absolute;
+  right: 75%;
+  bottom: 45%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.Analysis {
+  float: left;
+  margin-right: 30px;
+  width: 30%
+}
+
+.Digital {
+  float: right;
+  margin-left: 30px;
+  width: 30%
+}
+
+.dmp {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.ap {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.contactmsg {
+  width: 30%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: 'League Spartan', sans-serif;
+  color: #ffffff;
+  font-size: 15px;
+  background: #d95d34;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #d69671;
+  text-decoration: none;
+}
+
+a {
+  color: #A3423C;
+  font-family: 'League Spartan', sans-serif;
+  margin: 10px 30px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F6E7D8;
+  text-decoration: none;
+}
+
+.copyright {
+  color: #F6E7D8;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.pic {
+  width: 15%
+}
